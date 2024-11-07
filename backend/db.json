@@ -1,52 +1,10 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que voce veio",
-      "autoria": "Nay",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "foo",
-      "autoria": "João",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Bar",
-      "autoria": "Vitor",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 4,
-      "conteudo": "Vindo do servidor",
-      "autoria": "servidor",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Pensamento de testes",
-      "autoria": "Dev angular",
-      "modelo": "modelo3",
-      "id": 5
-    },
-    {
-      "conteudo": "Pensamento de testes",
-      "autoria": "Dev angular",
-      "modelo": "modelo3",
-      "id": 6
-    },
-    {
-      "conteudo": "Pensamento de testes",
-      "autoria": "Dev angular",
+      "conteudo": "Comprar remédio da mãe",
+      "autoria": "",
       "modelo": "modelo2",
-      "id": 7
-    },
-    {
-      "conteudo": "cbcv",
-      "autoria": "bcvbc",
-      "modelo": "modelo1",
-      "id": 8
+      "id": 3
     }
   ]
 }
